@@ -5,7 +5,6 @@ A Python-based Secret Santa assignment generator.
 ## Features
 
 
-- **Constraint Validation**: Ensures no employee is assigned to themselves or to the same person as last year
 - **CSV Input/Output**: Easy data management through CSV files
 - **Data Validation**: Comprehensive validation of input data format and content
 - **Auto-generated Results**: Timestamped output files for easy tracking
